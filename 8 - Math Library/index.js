@@ -1,4 +1,4 @@
-// Math Library
+// Math Function
 
 // console.log(Math.PI); // PI
 // console.log(Math.E);  // Eulers Number
