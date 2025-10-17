@@ -1,5 +1,6 @@
 // Math Function Practice
 
+// Rolling Dice
 // let randomNum = Math.random(); // Between 0 and 1
 // let randomNum = Math.floor(Math.random() * 6) + 1; // Dice (1-6)
 
