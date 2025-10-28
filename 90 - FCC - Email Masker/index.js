@@ -1,20 +1,20 @@
 function maskEmail(email){
 
   // Splitting the Email at "@"
-  let x = email.indexOf("@")
-  let y = email.slice(0, x)
+  let split = email.indexOf("@")
+  let username = email.slice(0, split)
 
   // Saving the rest after "@"
-  let rem = email.slice(x)
+  let rem = email.slice(split)
 
   // Calculating number of "*" to replace characters
-  let star = "*".repeat(y.slice(1, -1).length)
+  let star = "*".repeat(username.slice(1, -1).length)
 
   // Replacing characters with "*"
-  let z = y.replace(y.slice(1, -1), star)
+  let masked_username = username.replace(username.slice(1, -1), star)
 
   // Concatenating entire email
-  let masked = z + rem
+  let masked = masked_username + rem
 
   return masked
 }
