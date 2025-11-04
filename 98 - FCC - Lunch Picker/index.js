@@ -49,7 +49,6 @@ function showLunchMenu(arr6){
     console.log("The menu is empty.")
   }
   else{
-    let [first, second, ...rest] = arr6
     console.log(`Menu items: ${arr6.join(', ')}`)
   }
 }
