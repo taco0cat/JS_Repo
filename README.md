@@ -22,7 +22,7 @@ This repository is divided into two main modules:
 This module covers the fundamentals of JavaScript, following the [Bro Code JavaScript Course](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv).
 
 <details>
-<summary><strong>👇 Click to view the Bro Code Curriculum Covered (30 Lessons)</strong></summary>
+<summary><strong>👇 View the Bro Code Curriculum covered till now (30 Lessons)</strong></summary>
 <br>
 
 | ID | Topic | Concepts Covered |
@@ -53,4 +53,21 @@ These projects are my solutions to specific FreeCodeCamp algorithm challenges an
 | **08** | [**Math Bot**](./08%20-%20Math%20Bot) | Performs basic arithmetic operations. | Math Operators |
 | **10** | [**Calculator**](./10%20-%20Calculator) | Logic for calculation functions. | Functions |
 | **15** | [**Card Counter**](./15%20-%20Card%20Counter) | **Classic Algorithm.** Tracks Blackjack counts. | `Switch` Statements, Global State |
-| **16** | [**Leap Year Validator**](./16%20-%20Leap%20Year%20Validator) | Checks if a year is a leap year. |
+| **16** | [**Leap Year Validator**](./16%20-%20Leap%20Year%20Validator) | Checks if a year is a leap year. | Modulo Operator (`%`) |
+| **21** | [**Golf Score Translator**](./21%20-%20Golf%20Score%20Translator) | Maps strokes to golf terms (Birdie, Par, etc.). | Arrays & Indexing |
+| **23** | [**Recipe Tracker**](./23%20-%20Recipe%20Tracker) | Manages ingredients and steps. | Objects |
+
+*(Note: Full list of all mini-projects available in the file explorer)*
+
+---
+
+## ⚡ How to Run
+
+Since these are standalone scripts, you can run them using Node.js or a browser.
+
+### Option 1: Run with Node.js (CLI)
+Navigate to any project folder and run the main file:
+
+```bash
+cd "00 - BroCode Tutorials/07 - Counter Program"
+node index.js
