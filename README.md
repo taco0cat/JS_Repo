@@ -22,7 +22,7 @@ This repository is divided into two main modules:
 This module covers the fundamentals of JavaScript, following the [Bro Code JavaScript Course](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv).
 
 <details>
-<summary><strong>👇 Click to view the full Bro Code Curriculum (30 Lessons)</strong></summary>
+<summary><strong>👇 Click to view the Bro Code Curriculum Covered (30 Lessons)</strong></summary>
 <br>
 
 | ID | Topic | Concepts Covered |
