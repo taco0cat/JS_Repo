@@ -22,7 +22,7 @@ This repository is divided into two main modules:
 This module covers the fundamentals of JavaScript, following the [Bro Code JavaScript Course](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv).
 
 <details>
-<summary><strong>👇 View the Bro Code Curriculum covered till now (30 Lessons)</strong></summary>
+<summary><strong>👇 View the Bro Code Curriculum covered so far (30 Lessons)</strong></summary>
 <br>
 
 | ID | Topic | Concepts Covered |
@@ -63,11 +63,37 @@ These projects are my solutions to specific FreeCodeCamp algorithm challenges an
 
 ## ⚡ How to Run
 
-Since these are standalone scripts, you can run them using Node.js or a browser.
-
 ### Option 1: Run with Node.js (CLI)
-Navigate to any project folder and run the main file:
+For pure logic scripts (like most FCC projects), this is the fastest method.
 
-```bash
-cd "00 - BroCode Tutorials/07 - Counter Program"
-node index.js
+1.  Navigate to the project folder:
+    ```bash
+    cd "15 - Card Counter"
+    ```
+2.  Run the file:
+    ```bash
+    node index.js
+    ```
+
+### Option 2: Run in Browser
+This is required for DOM projects or if you prefer Chrome Developer Tools.
+
+* **For Bro Code Projects:** Open the `index.html` file inside the folder (Double-click or use Live Server).
+* **For FreeCodeCamp Scripts:**
+    1.  Create a temporary `test.html` file in the folder.
+    2.  Add a script tag pointing to the JS file:
+        ```html
+        <script src="index.js"></script>
+        ```
+    3.  Open `test.html` in Chrome and press `F12` to see the **Console** output.
+
+---
+
+## 🧠 Key Concepts Learned
+
+* **DOM Manipulation:** Selecting elements, Event Listeners (Bro Code).
+* **Algorithms:** Card Counting, String Inversion, Sorting (FCC).
+* **Data Structures:** Handling complex 2D Arrays and Objects.
+
+---
+*Created by [taco0cat](https://github.com/taco0cat)*
