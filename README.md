@@ -5,14 +5,14 @@
 ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/taco0cat/javascript-fundamentals?style=for-the-badge&color=blue)
 
-Welcome to my central JavaScript repository. This project documents my complete learning path, combining the **Bro Code** full-stack curriculum with the **FreeCodeCamp (v9)** project-based certification.
+Welcome to my central JavaScript repository. This project documents my complete learning path, combining the **Bro Code** full-stack curriculum with the **FreeCodeCamp** project-based certification.
 
 ## 📋 Repository Structure
 
 This repository is divided into two main modules:
 
 1.  **Bro Code Tutorials:** Focuses on syntax, DOM manipulation, and core language features.
-2.  **FreeCodeCamp Projects:** Real-world applications built to master algorithms and logic.
+2.  **FreeCodeCamp Projects:** Applied algorithms, logic puzzles, and mini-applications.
 
 ---
 
@@ -41,31 +41,16 @@ This module covers the fundamentals of JavaScript, following the [Bro Code JavaS
 
 ---
 
-## 🛠️ Module 2: FreeCodeCamp (v9)
+## 🛠️ Module 2: FreeCodeCamp Practice
 *Location: Root Directory*
 
-These projects follow the [New FCC JavaScript Curriculum (v9)](https://www.freecodecamp.org/learn/javascript-v9/). Each project focuses on a specific set of programming concepts.
+These projects are my solutions to specific FreeCodeCamp algorithm challenges and logic exercises.
 
-| ID | Project Name | Focus | Key Concept |
+| ID | Project Name | Description | Key Concept |
 | :--- | :--- | :--- | :--- |
-| **01** | [**Role Playing Game**](./01%20-%20Role%20Playing%20Game) | building a turn-based game. | **Basic Logic**, Arrays, Functions |
-| **02** | [**Gradebook App**](./02%20-%20Gradebook%20App) | calculating student scores. | **Functions**, Conditions |
-| **03** | [**Calorie Counter**](./03%20-%20Calorie%20Counter) | validating user input forms. | **Form Validation**, Regex |
-| **04** | [**Music Player**](./04%20-%20Music%20Player) | managing songs and playback. | **Objects**, Audio API |
-| **05** | [**Palindrome Checker**](./05%20-%20Palindrome%20Checker) | checking string patterns. | **Algorithms**, String Manipulation |
-| ... | *More projects...* | | |
-
-*(Note: Full project list available in the file explorer)*
-
----
-
-## ⚡ How to Run
-
-Since these are standalone scripts, you can run them using Node.js or a browser.
-
-### Option 1: Run with Node.js (CLI)
-Navigate to any project folder and run the main file:
-
-```bash
-cd "00 - BroCode Tutorials/07 - Counter Program"
-node index.js
+| **01** | [**Greeting Bot**](./01%20-%20Greeting%20Bot) | Basic console interaction script. | Strings & I/O |
+| **02** | [**Trivia Bot**](./02%20-%20Trivia%20Bot) | Simple Q&A game logic. | `If/Else` Statements |
+| **08** | [**Math Bot**](./08%20-%20Math%20Bot) | Performs basic arithmetic operations. | Math Operators |
+| **10** | [**Calculator**](./10%20-%20Calculator) | Logic for calculation functions. | Functions |
+| **15** | [**Card Counter**](./15%20-%20Card%20Counter) | **Classic Algorithm.** Tracks Blackjack counts. | `Switch` Statements, Global State |
+| **16** | [**Leap Year Validator**](./16%20-%20Leap%20Year%20Validator) | Checks if a year is a leap year. |
