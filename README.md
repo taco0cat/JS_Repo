@@ -34,8 +34,8 @@ These are select highlights of my solo work, focusing on algorithms, privacy scr
 
 ---
 
-## 🎓 Archived Curriculum: Bro Code & FCC
-*Location: `/000 - BroCode Tutorials` & `/001 - FCC Guided Projects`*
+## 🎓 Archived Curriculum: Bro Code
+*Location: `/000 - BroCode Tutorials`*
 
 This section documents the theoretical concepts and syntax covered in my guided coursework.
 
