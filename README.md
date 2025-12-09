@@ -16,26 +16,21 @@ Welcome to my central JavaScript repository. This project documents my complete 
 
 ---
 
-## 🚀 Independent Projects (Unguided)
+## 🚀 Featured Projects (Unguided)
 *Location: Root Directory*
 
-These projects represent my **solo solutions** to FreeCodeCamp algorithm challenges and custom logic exercises.
+These are the highlights of my solo work, focusing on algorithms, state management, and string manipulation.
 
 | ID | Project Name | Description | Key Concept |
 | :--- | :--- | :--- | :--- |
-| **01** | [**Trivia Bot**](./01%20-%20Trivia%20Bot) | Interactive Q&A script. | `If/Else` Logic |
-| **02** | [**Sentence Maker**](./02%20-%20Sentence%20Maker) | Constructs sentences from inputs. | String Concatenation |
-| **03** | [**Fortune Teller**](./03%20-%20Fortune%20Teller) | Randomly generates future predictions. | `Math.random()` |
-| **04** | [**Boolean Check**](./04%20-%20Boolean%20Check%20Function) | Verifies data types and truthiness. | Booleans & Primitives |
-| **05** | [**Email Masker**](./05%20-%20Email%20Masker) | Hides personal data for privacy. | String Slicing |
-| **06** | [**Temp Converter**](./06%20-%20Temperature%20Converter) | Converts Celsius/Fahrenheit. | Arithmetic Operators |
-| **07** | [**Card Counter**](./07%20-%20Card%20Counter) | **Classic Algorithm.** Tracks Blackjack counts. | Global State & Switch |
-| **08** | [**Leap Year Validator**](./08%20-%20Leap%20Year%20Validator) | Checks if a year is a leap year. | Modulo Operator (`%`) |
-| **09** | [**Truncate String**](./09%20-%20Truncate%20String%20Algorithm) | Shortens strings based on max length. | Algorithms |
-| **10** | [**Confirm Ending**](./10%20-%20Confirm%20Ending%20Tool) | Checks the target ending of a string. | `.endsWith()` / Substrings |
-| **11** | [**Lunch Picker**](./11%20-%20Lunch%20Picker) | Randomly selects an option from a list. | Arrays & Indexing |
-| **12** | [**Golf Score**](./12%20-%20Golf%20Score%20Translator) | Maps strokes to golf terms (Par, Birdie). | Array Mapping |
-| **13** | [**String Inverter**](./13%20-%20String%20Inverter) | Reverses a given string. | Loops & Algorithms |
+| **07** | [**Card Counter**](./07%20-%20Card%20Counter) | **⭐ Star Project.** A Blackjack counting algorithm that tracks advantage. | Global State & Switch Cases |
+| **12** | [**Golf Score Translator**](./12%20-%20Golf%20Score%20Translator) | Maps strokes to golf terminology (Par, Birdie, Eagle). | Array Indexing & Logic |
+| **05** | [**Email Masker**](./05%20-%20Email%20Masker) | Scripts to obfuscate sensitive user data for privacy. | String Slicing |
+| **01** | [**Trivia Bot**](./01%20-%20Trivia%20Bot) | Interactive Q&A logic script. | `If/Else` Flow Control |
+| **13** | [**String Inverter**](./13%20-%20String%20Inverter) | Reverses strings without using built-in `.reverse()`. | Algorithmic Loops |
+| **09** | [**Truncate String**](./09%20-%20Truncate%20String%20Algorithm) | Intelligently shortens strings based on dynamic constraints. | Ternary Operators |
+
+*(Note: Full list of minor exercises available in the file explorer)*
 
 ---
 
