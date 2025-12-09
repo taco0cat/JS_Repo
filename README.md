@@ -19,16 +19,16 @@ Welcome to my central JavaScript repository. This project documents my complete 
 ## 🚀 Featured Projects (Unguided)
 *Location: Root Directory*
 
-These are the highlights of my solo work, focusing on algorithms, state management, and string manipulation.
+These are select highlights of my solo work, focusing on algorithms, privacy scripts, and state management.
 
 | ID | Project Name | Description | Key Concept |
 | :--- | :--- | :--- | :--- |
-| **07** | [**Card Counter**](./07%20-%20Card%20Counter) | **⭐ Star Project.** A Blackjack counting algorithm that tracks advantage. | Global State & Switch Cases |
-| **12** | [**Golf Score Translator**](./12%20-%20Golf%20Score%20Translator) | Maps strokes to golf terminology (Par, Birdie, Eagle). | Array Indexing & Logic |
-| **05** | [**Email Masker**](./05%20-%20Email%20Masker) | Scripts to obfuscate sensitive user data for privacy. | String Slicing |
 | **01** | [**Trivia Bot**](./01%20-%20Trivia%20Bot) | Interactive Q&A logic script. | `If/Else` Flow Control |
+| **05** | [**Email Masker**](./05%20-%20Email%20Masker) | Scripts to obfuscate sensitive user data for privacy. | String Slicing |
+| **07** | [**Card Counter**](./07%20-%20Card%20Counter) | A counting algorithm that tracks advantage. | Global State & Switch Cases |
+| **09** | [**Truncate String**](./09%20-%20Truncate%20String%20Algorithm) | Intelligently shortens strings based on max length. | Ternary Operators |
+| **12** | [**Golf Score**](./12%20-%20Golf%20Score%20Translator) | Maps strokes to golf terminology (Par, Birdie, Eagle). | Array Indexing & Logic |
 | **13** | [**String Inverter**](./13%20-%20String%20Inverter) | Reverses strings without using built-in `.reverse()`. | Algorithmic Loops |
-| **09** | [**Truncate String**](./09%20-%20Truncate%20String%20Algorithm) | Intelligently shortens strings based on dynamic constraints. | Ternary Operators |
 
 *(Note: Full list of minor exercises available in the file explorer)*
 
@@ -66,7 +66,7 @@ For pure logic scripts (like the unguided projects), this is the fastest method.
 
 1.  Navigate to the project folder:
     ```bash
-    cd "07 - Card Counter"
+    cd "05 - Email Masker"
     ```
 2.  Run the file:
     ```bash
