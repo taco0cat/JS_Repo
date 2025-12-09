@@ -1,0 +1,1 @@
+// .map() - applies callback function to each element in an array and returns a new array
