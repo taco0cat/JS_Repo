@@ -37,11 +37,7 @@ These are select highlights of my solo work, focusing on algorithms, privacy scr
 ## 🎓 Archived Curriculum: Bro Code & FCC
 *Location: `/000 - BroCode Tutorials` & `/001 - FCC Guided Projects`*
 
-This section covers the fundamentals of JavaScript syntax and guided lessons.
-
-<details>
-<summary><strong>👇 View the Bro Code Curriculum covered so far (35 Lessons)</strong></summary>
-<br>
+This section documents the theoretical concepts and syntax covered in my guided coursework.
 
 | ID | Topic | Concepts Covered |
 | :--- | :--- | :--- |
@@ -55,8 +51,6 @@ This section covers the fundamentals of JavaScript syntax and guided lessons.
 | **24-29** | **Data Structures** | Arrays, Spread/Rest Operators, Dice Roller |
 | **30** | **Review Project** | **Password Generator** (Applied Logic) |
 | **31-35** | **Functional Prog.** | **Callbacks, ForEach, Map, Filter, Reduce** |
-
-</details>
 
 ---
 
