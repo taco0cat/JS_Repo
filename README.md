@@ -40,7 +40,7 @@ These are select highlights of my solo work, focusing on algorithms, privacy scr
 This section covers the fundamentals of JavaScript syntax and guided lessons.
 
 <details>
-<summary><strong>👇 View the Bro Code Curriculum covered so far (30 Lessons)</strong></summary>
+<summary><strong>👇 View the Bro Code Curriculum covered so far (35 Lessons)</strong></summary>
 <br>
 
 | ID | Topic | Concepts Covered |
@@ -53,7 +53,8 @@ This section covers the fundamentals of JavaScript syntax and guided lessons.
 | **19-21** | **Loops** | While, For, Number Guessing Game |
 | **22-23** | **Functions** | Functions, Variable Scope |
 | **24-29** | **Data Structures** | Arrays, Spread/Rest Operators, Dice Roller |
-| **30** | **Final Project** | **Password Generator** |
+| **30** | **Review Project** | **Password Generator** (Applied Logic) |
+| **31-35** | **Functional Prog.** | **Callbacks, ForEach, Map, Filter, Reduce** |
 
 </details>
 
@@ -91,7 +92,7 @@ This is required for DOM projects or if you prefer Chrome Developer Tools.
 
 * **DOM Manipulation:** Selecting elements, Event Listeners.
 * **Algorithms:** Card Counting, String Inversion, Sorting.
-* **Data Structures:** Handling complex 2D Arrays and Objects.
+* **Functional Programming:** Using `.map()`, `.filter()`, and `.reduce()` for clean data handling.
 
 ---
 *Created by [taco0cat](https://github.com/taco0cat)*
